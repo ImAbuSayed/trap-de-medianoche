@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/trap-de-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Trap de Medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/trap-de-medianoche/) |
+| **Get License** | [Music Rights & Licensing for Trap de Medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/trap-de-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1531)
 
 ---
 
