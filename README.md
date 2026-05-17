@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/trap-de-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Trap de Medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/trap-de-medianoche/) |
+| **Get License** | [Music Rights & Licensing for Trap de Medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/trap-de-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ojos oscuros, brillando en la madrugada de la ciudad,
+> Tú tienes la magia que me quita la tranquilidad.
+> Baby, tú sabes que esta noche es para los dos,
+> Ven, escápate conmigo, no hace falta usar la voz.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
