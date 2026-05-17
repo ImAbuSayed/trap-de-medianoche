@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Trap de Medianoche
+
+This log tracks the cryptographic history and versioning for the song **Trap de Medianoche** (trap-de-medianoche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-17T16:06:39.130100 | `v1` | `8e20c81ce1b46c39930ca2a9596202da6cb48d8b12ae0844cf673d057b2a0eab` | `3e6cff9d1b60ec94be017c2d224ce1cddee2ce8ad2dc81174f7f6f17d1c3f55d` | `2026-05-17_trap-de-medianoche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
